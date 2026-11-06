@@ -1,28 +1,35 @@
-<p>
- <img src="./img/demostrativo.png" alt="demonstração do projeto" width="100%" />
-</p>
+# Pet Boutique
 
-## 🖥️ Projeto
+Página de apresentação de um pet shop, desenvolvida como exercício de HTML e CSS. Reúne informações sobre serviços, marcas e localização.
 
-Esse é um projeto Web desafiando conhecimento das tecnologias citadas abaixo.
+![Demonstração do projeto](./img/demostrativo.png)
 
-### 🔎 Tecnologias
+## Tecnologias e recursos
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+- HTML e CSS, sem etapa de compilação.
+- Apresentação de banho e tosa, atendimento veterinário e outros serviços.
+- Galeria de serviços e logotipos de marcas.
+- Links externos de contato e redes sociais.
+- Mapa incorporado pelo Google Maps.
 
-- HTML
-- CSS
-- Github
+## Como visualizar
 
-## 🎨 Layout
+```bash
+git clone https://github.com/alvesvslucas/Projeto_petShop.git
+cd Projeto_petShop
+```
 
-Você pode visualizar o layout do projeto através
-[desse link](https://www.devmedia.com.br/).
-É necessario ter uma conta no [Devmedia](https://www.devmedia.com.br).
+Abra `index.html` em um navegador. O mapa e os links externos dependem de internet.
 
-### 🧑‍💻 Creditos
+## Estrutura
 
+- `index.html`: conteúdo e navegação.
+- `estilo.css`: apresentação visual.
+- `img/`: imagens, marcas e ícones de redes sociais.
 
-Professor [Luan Oliveira](https://www.linkedin.com/in/luanpdd/).
+## Referências e créditos
 
+Projeto de estudo com referência à [DevMedia](https://www.devmedia.com.br/); o acesso ao conteúdo da plataforma pode exigir conta.
+Crédito ao professor [Luan Oliveira](https://www.linkedin.com/in/luanpdd/), preservado da documentação original.
+O rodapé da página identifica Lucas Alves Vieira da Silva como desenvolvedor.
 
